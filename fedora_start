@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo dnf install -y inxi neofetch htop
+sudo dnf update -y
